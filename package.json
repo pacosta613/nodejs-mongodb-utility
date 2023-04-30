@@ -11,5 +11,8 @@
   "dependencies": {
     "logplease": "^1.2.15",
     "mongodb": "^5.3.0"
+  },
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/package/nodejs-mongodb-utility"
   }
 }
